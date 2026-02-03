@@ -1,6 +1,6 @@
 # Lab_Task_03_DIP
 
-2023-SE-02_Lab_Task_DIP
+2023-SE-02_Lab_Task_03_DIP
 
 Write a Python program using OpenCV, NumPy, and Matplotlib to do the following in Google Colab:
 Allow the user to upload any colored image.
